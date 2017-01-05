@@ -1,0 +1,1 @@
+You may want to change the file path for the data and images. 
